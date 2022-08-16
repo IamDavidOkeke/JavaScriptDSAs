@@ -1,0 +1,17 @@
+    {
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "JavaScript Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Algorithms",
+    "JavaScript"
+  ],
+  "author": "David Okeke",
+  "license": "ISC"
+}
